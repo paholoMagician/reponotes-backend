@@ -19,5 +19,5 @@ public partial class Usuario
 
     public DateTime Fecrea { get; set; }
 
-    public string Rol { get; set; }
+    public int? Rol { get; set; }
 }

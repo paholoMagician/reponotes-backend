@@ -18,6 +18,7 @@ public class LoginController : ControllerBase
         _context = context;
         _configuration = configuration;
     }
+
     [HttpPost]
     [Route("login")]
     public async Task<IActionResult> Login([FromBody] Usuario userInfo)
@@ -39,7 +40,7 @@ public class LoginController : ControllerBase
                 new Claim(ClaimTypes.Name, result.Email),
                 new Claim(ClaimTypes.Name, result.Nombre),
                 new Claim(ClaimTypes.NameIdentifier, result.Id.ToString()),
-                new Claim(ClaimTypes.Role, result.Rol)
+                new Claim(ClaimTypes.Role, result.Rol.ToString())
             }),
             Expires = DateTime.UtcNow.AddHours(1),
             SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)

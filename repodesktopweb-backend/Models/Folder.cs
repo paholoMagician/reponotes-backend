@@ -26,4 +26,6 @@ public partial class Folder
     public int? Permisos { get; set; }
 
     public string Password { get; set; }
+
+    public int? Idfolder { get; set; }
 }

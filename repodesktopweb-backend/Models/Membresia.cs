@@ -20,4 +20,6 @@ public partial class Membresia
     public DateTime Fecrea { get; set; }
 
     public int? Estado { get; set; }
+
+    public string Descripcion { get; set; }
 }

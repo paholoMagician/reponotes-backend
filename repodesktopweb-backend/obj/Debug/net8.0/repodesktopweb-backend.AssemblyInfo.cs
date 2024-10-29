@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repodesktopweb-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7d5d4a9d982c56172aacb31b4a9e86b7176fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("repodesktopweb-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repodesktopweb-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

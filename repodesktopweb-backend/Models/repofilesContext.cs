@@ -57,13 +57,11 @@ public partial class repofilesContext : DbContext
 
         modelBuilder.Entity<Folder>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK_Table_2");
+            entity.HasKey(e => e.Id).HasName("PK_folder1");
 
             entity.ToTable("folder");
 
-            entity.Property(e => e.Id)
-                .ValueGeneratedNever()
-                .HasColumnName("id");
+            entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.ColorFolder)
                 .HasMaxLength(15)
                 .IsUnicode(false)
@@ -77,6 +75,7 @@ public partial class repofilesContext : DbContext
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("fecrea");
+            entity.Property(e => e.Idfolder).HasColumnName("idfolder");
             entity.Property(e => e.Iduser).HasColumnName("iduser");
             entity.Property(e => e.NameFolder)
                 .HasMaxLength(75)
@@ -87,9 +86,7 @@ public partial class repofilesContext : DbContext
                 .IsUnicode(false)
                 .HasColumnName("password");
             entity.Property(e => e.Permisos).HasColumnName("permisos");
-            entity.Property(e => e.PositionFolder)
-                .ValueGeneratedOnAdd()
-                .HasColumnName("positionFolder");
+            entity.Property(e => e.PositionFolder).HasColumnName("positionFolder");
         });
 
         modelBuilder.Entity<Membresia>(entity =>
@@ -100,6 +97,10 @@ public partial class repofilesContext : DbContext
             entity.Property(e => e.Costo)
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("costo");
+            entity.Property(e => e.Descripcion)
+                .HasMaxLength(300)
+                .IsUnicode(false)
+                .HasColumnName("descripcion");
             entity.Property(e => e.Descuento)
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("descuento");
@@ -117,6 +118,8 @@ public partial class repofilesContext : DbContext
 
         modelBuilder.Entity<Usuario>(entity =>
         {
+            entity.HasKey(e => e.Id).HasName("PK_usuario1");
+
             entity.ToTable("usuario");
 
             entity.Property(e => e.Id).HasColumnName("id");
@@ -137,10 +140,7 @@ public partial class repofilesContext : DbContext
                 .HasMaxLength(100)
                 .IsUnicode(false)
                 .HasColumnName("password");
-            entity.Property(e => e.Rol)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("rol");
+            entity.Property(e => e.Rol).HasColumnName("rol");
         });
 
         OnModelCreatingPartial(modelBuilder);
