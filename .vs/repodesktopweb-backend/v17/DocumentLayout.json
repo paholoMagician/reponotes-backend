@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pahol\\Documents\\reponotes-backend\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\pahol\\documents\\reponotes-backend\\repodesktopweb-backend\\controllers\\foldercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\controllers\\foldercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\usuario\\documents\\reponotes-backend\\repodesktopweb-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\pahol\\documents\\reponotes-backend\\repodesktopweb-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\usuario\\documents\\reponotes-backend\\repodesktopweb-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\pahol\\documents\\reponotes-backend\\repodesktopweb-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\usuario\\documents\\reponotes-backend\\repodesktopweb-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\usuario\\documents\\reponotes-backend\\repodesktopweb-backend\\controllers\\foldercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\controllers\\foldercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\usuario\\documents\\reponotes-backend\\repodesktopweb-backend\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|c:\\users\\usuario\\documents\\reponotes-backend\\repodesktopweb-backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7307288-B11D-42A2-918F-53DDCE99565B}|repodesktopweb-backend\\repodesktopweb-backend.csproj|solutionrelative:repodesktopweb-backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "repodesktopweb-backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\appsettings.json",
+              "RelativeToolTip": "repodesktopweb-backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T13:53:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "repodesktopweb-backend\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Models\\Usuario.cs",
+              "RelativeToolTip": "repodesktopweb-backend\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:51:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "repodesktopweb-backend\\Models\\Folder.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Models\\Folder.cs",
+              "RelativeToolTip": "repodesktopweb-backend\\Models\\Folder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:49:54.979Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Program.cs",
               "RelativeDocumentMoniker": "repodesktopweb-backend\\Program.cs",
-              "ToolTip": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Program.cs",
               "RelativeToolTip": "repodesktopweb-backend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAfAAAA",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T04:42:22.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FolderController.cs",
-              "DocumentMoniker": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\FolderController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\FolderController.cs",
               "RelativeDocumentMoniker": "repodesktopweb-backend\\Controllers\\FolderController.cs",
-              "ToolTip": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\FolderController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\FolderController.cs",
               "RelativeToolTip": "repodesktopweb-backend\\Controllers\\FolderController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAmwHAAAAAuAAAA",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwGgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:43:18.79Z",
               "EditorCaption": ""
@@ -54,13 +105,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "repodesktopweb-backend\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\reponotes-backend\\repodesktopweb-backend\\Controllers\\LoginController.cs",
               "RelativeToolTip": "repodesktopweb-backend\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAA5AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:27:22.031Z"
+              "WhenOpened": "2024-10-28T19:27:22.031Z",
+              "EditorCaption": ""
             }
           ]
         }
