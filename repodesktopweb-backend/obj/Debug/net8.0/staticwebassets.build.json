@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "0cj8p2FtnqeI4f0R/GYfAsQ9WY7jyqRKxC8B3VtoWo0=",
+  "Hash": "9qM3EvpnvfQNNiVCd+VzN4lnrJl52246PKMjVCZYzik=",
   "Source": "repodesktopweb-backend",
   "BasePath": "_content/repodesktopweb-backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "repodesktopweb-backend\\wwwroot",
+      "Source": "repodesktopweb-backend",
+      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
+      "BasePath": "_content/repodesktopweb-backend",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

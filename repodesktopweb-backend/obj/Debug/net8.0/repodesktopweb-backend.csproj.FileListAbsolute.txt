@@ -447,3 +447,4 @@ C:\Users\pahol\Documents\reponotes-backend\repodesktopweb-backend\obj\Debug\net8
 C:\Users\pahol\Documents\reponotes-backend\repodesktopweb-backend\obj\Debug\net8.0\repodesktopweb-backend.genruntimeconfig.cache
 C:\Users\pahol\Documents\reponotes-backend\repodesktopweb-backend\obj\Debug\net8.0\ref\repodesktopweb-backend.dll
 C:\Users\USUARIO\Documents\reponotes-backend\repodesktopweb-backend\obj\Debug\net8.0\repodesktopweb-backend.sourcelink.json
+C:\Users\pahol\Documents\reponotes-backend\repodesktopweb-backend\bin\Debug\net8.0\repodesktopweb-backend.staticwebassets.runtime.json
