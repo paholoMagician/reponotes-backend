@@ -25,6 +25,7 @@ namespace repodesktopweb_backend.Controllers
             if (ModelState.IsValid)
             {
                 var res = await _context.Folders.FirstOrDefaultAsync(x => x.NameFolder == modelFolder.NameFolder && x.Iduser == modelFolder.Iduser);
+
                 if (res == null)
                 {
                     _context.Folders.Add(modelFolder);

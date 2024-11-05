@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf",
+      "PackagePath": "staticwebassets\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.repodesktopweb-backend.props",
+      "PackagePath": "build\\repodesktopweb-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.repodesktopweb-backend.props",
+      "PackagePath": "buildMultiTargeting\\repodesktopweb-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.repodesktopweb-backend.props",
+      "PackagePath": "buildTransitive\\repodesktopweb-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.repodesktopweb-backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

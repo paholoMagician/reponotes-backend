@@ -17,6 +17,8 @@ builder.Services.AddDbContext<repofilesContext>(options =>
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
+builder.Services.AddHttpContextAccessor(); // Añadir esta línea
+
 builder.Services.AddLogging(logging =>
 {
     logging.ClearProviders();
@@ -57,7 +59,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors(builder => builder.WithOrigins( "http://localhost:4200", "*")
+app.UseCors(builder => builder.WithOrigins("http://localhost:4200", "*")
                                             .AllowAnyHeader()
                                             .AllowAnyMethod()
                                             .AllowCredentials()

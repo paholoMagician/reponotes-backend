@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9qM3EvpnvfQNNiVCd+VzN4lnrJl52246PKMjVCZYzik=",
+  "Hash": "bALjWChZGhJ8GOhL2pJWzTG/h0O2SrUUbhod1mrHLGI=",
   "Source": "repodesktopweb-backend",
   "BasePath": "_content/repodesktopweb-backend",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf",
+      "SourceId": "repodesktopweb-backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
+      "BasePath": "_content/repodesktopweb-backend",
+      "RelativePath": "storage/1/1008/C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf"
+    }
+  ]
 }
