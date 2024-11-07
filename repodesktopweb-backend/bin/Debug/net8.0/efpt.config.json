@@ -15,7 +15,7 @@
    "T4TemplatePath": null,
    "Tables": [
       {
-         "Name": "[dbo].[file]",
+         "Name": "[dbo].[fileServer]",
          "ObjectType": 0
       },
       {

@@ -13,7 +13,7 @@ public partial class repofilesContext : DbContext
     {
     }
 
-    public virtual DbSet<File> Files { get; set; }
+    public virtual DbSet<FileServer> FileServers { get; set; }
 
     public virtual DbSet<Folder> Folders { get; set; }
 
@@ -23,18 +23,19 @@ public partial class repofilesContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<File>(entity =>
+        modelBuilder.Entity<FileServer>(entity =>
         {
-            entity.ToTable("file");
+            entity.HasKey(e => e.Id).HasName("PK_fileServer1");
 
-            entity.Property(e => e.Id)
-                .ValueGeneratedNever()
-                .HasColumnName("id");
+            entity.ToTable("fileServer");
+
+            entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.Estado).HasColumnName("estado");
             entity.Property(e => e.Fecrea)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("fecrea");
+            entity.Property(e => e.IdFolder).HasColumnName("idFolder");
             entity.Property(e => e.NameFile)
                 .HasMaxLength(150)
                 .HasColumnName("nameFile");
@@ -43,9 +44,7 @@ public partial class repofilesContext : DbContext
                 .IsUnicode(false)
                 .HasColumnName("password");
             entity.Property(e => e.Permisos).HasColumnName("permisos");
-            entity.Property(e => e.Position)
-                .ValueGeneratedOnAdd()
-                .HasColumnName("position");
+            entity.Property(e => e.Position).HasColumnName("position");
             entity.Property(e => e.Tagdescription)
                 .HasMaxLength(250)
                 .IsUnicode(false)

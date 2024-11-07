@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace repodesktopweb_backend.Models;
 
-public partial class File
+public partial class FileServer
 {
     public int Id { get; set; }
 
@@ -24,4 +24,6 @@ public partial class File
     public string Password { get; set; }
 
     public string Type { get; set; }
+
+    public int? IdFolder { get; set; }
 }

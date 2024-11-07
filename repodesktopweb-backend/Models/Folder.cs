@@ -29,4 +29,3 @@ public partial class Folder
 
     public int? Idfolder { get; set; }
 }
-

@@ -16,5 +16,53 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1008\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1008\repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar))">
+      <SourceType>Package</SourceType>
+      <SourceId>repodesktopweb-backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/repodesktopweb-backend</BasePath>
+      <RelativePath>storage/1/1008/repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1008\repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1010\Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>repodesktopweb-backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/repodesktopweb-backend</BasePath>
+      <RelativePath>storage/1/1010/Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1010\Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1011\C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf))">
+      <SourceType>Package</SourceType>
+      <SourceId>repodesktopweb-backend</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/repodesktopweb-backend</BasePath>
+      <RelativePath>storage/1/1011/C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\storage\1\1011\C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>
