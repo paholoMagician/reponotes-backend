@@ -26,4 +26,6 @@ public partial class FileServer
     public string Type { get; set; }
 
     public int? IdFolder { get; set; }
+
+    public decimal? Size { get; set; }
 }

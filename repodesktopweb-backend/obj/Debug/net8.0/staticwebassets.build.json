@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dBAROtHhgVwS/fWwim371o7eCFU0gX5O7rJxzC/SOdc=",
+  "Hash": "dpgdliarrc1SRL3E/B7YLS+daXcNI/ANStflz/RXX5A=",
   "Source": "repodesktopweb-backend",
   "BasePath": "_content/repodesktopweb-backend",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "repodesktopweb-backend\\wwwroot",
       "Source": "repodesktopweb-backend",
-      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pahol\\Desktop\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
       "BasePath": "_content/repodesktopweb-backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf",
+      "Identity": "C:\\Users\\pahol\\Desktop\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\6067\\disk-drill-win.exe",
       "SourceId": "repodesktopweb-backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pahol\\Desktop\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
       "BasePath": "_content/repodesktopweb-backend",
-      "RelativePath": "storage/1/1008/C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf",
+      "RelativePath": "storage/1/6067/disk-drill-win.exe",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,64 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf"
-    },
-    {
-      "Identity": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1008\\repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar",
-      "SourceId": "repodesktopweb-backend",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
-      "BasePath": "_content/repodesktopweb-backend",
-      "RelativePath": "storage/1/1008/repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\storage\\1\\1008\\repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar"
-    },
-    {
-      "Identity": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1010\\Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png",
-      "SourceId": "repodesktopweb-backend",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
-      "BasePath": "_content/repodesktopweb-backend",
-      "RelativePath": "storage/1/1010/Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\storage\\1\\1010\\Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png"
-    },
-    {
-      "Identity": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1011\\C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf",
-      "SourceId": "repodesktopweb-backend",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\",
-      "BasePath": "_content/repodesktopweb-backend",
-      "RelativePath": "storage/1/1011/C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\storage\\1\\1011\\C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf"
+      "OriginalItemSpec": "wwwroot\\storage\\1\\6067\\disk-drill-win.exe"
     }
   ]
 }

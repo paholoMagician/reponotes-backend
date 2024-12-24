@@ -45,6 +45,9 @@ public partial class repofilesContext : DbContext
                 .HasColumnName("password");
             entity.Property(e => e.Permisos).HasColumnName("permisos");
             entity.Property(e => e.Position).HasColumnName("position");
+            entity.Property(e => e.Size)
+                .HasColumnType("decimal(19, 6)")
+                .HasColumnName("size");
             entity.Property(e => e.Tagdescription)
                 .HasMaxLength(250)
                 .IsUnicode(false)
@@ -93,6 +96,9 @@ public partial class repofilesContext : DbContext
             entity.ToTable("membresias");
 
             entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Capacidad)
+                .HasColumnType("decimal(10, 2)")
+                .HasColumnName("capacidad");
             entity.Property(e => e.Costo)
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("costo");
@@ -131,6 +137,7 @@ public partial class repofilesContext : DbContext
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("fecrea");
+            entity.Property(e => e.IdMembresia).HasColumnName("idMembresia");
             entity.Property(e => e.Nombre)
                 .HasMaxLength(150)
                 .IsUnicode(false)

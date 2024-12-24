@@ -1,20 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf",
-      "PackagePath": "staticwebassets\\storage\\1\\1008\\C# Guia Total del Programador_4cad69ed-feb6-46ad-9d0a-001945ee797d.pdf"
-    },
-    {
-      "Id": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1008\\repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar",
-      "PackagePath": "staticwebassets\\storage\\1\\1008\\repodesktopweb-backend_d4ce1658-46ff-4473-a287-231b0635ae73.rar"
-    },
-    {
-      "Id": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1010\\Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png",
-      "PackagePath": "staticwebassets\\storage\\1\\1010\\Moon List app logo_508f00fd-e6d9-4945-97be-5eead7c43653.png"
-    },
-    {
-      "Id": "C:\\Users\\pahol\\Documents\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\1011\\C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf",
-      "PackagePath": "staticwebassets\\storage\\1\\1011\\C-Sharp-Programming_3628d107-6f5b-4303-a74d-0f666ffc6a66.pdf"
+      "Id": "C:\\Users\\pahol\\Desktop\\reponotes-backend\\repodesktopweb-backend\\wwwroot\\storage\\1\\6067\\disk-drill-win.exe",
+      "PackagePath": "staticwebassets\\storage\\1\\6067\\disk-drill-win.exe"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.repodesktopweb-backend.props",

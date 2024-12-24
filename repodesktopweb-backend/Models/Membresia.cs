@@ -22,4 +22,6 @@ public partial class Membresia
     public int? Estado { get; set; }
 
     public string Descripcion { get; set; }
+
+    public decimal? Capacidad { get; set; }
 }
